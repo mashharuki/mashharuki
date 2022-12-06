@@ -6,7 +6,7 @@ Hi, I'm an Web3 engineer.
 
 
 ## 📈 Status
-[![Followers](https://badgen.org/img/zenn/mashharuki/followers?style=flat)](https://zenn.dev/mashharuki) [![My Twitter Followers](https://badgen.net/twitter/follow/HARUKI05758694)](https://twitter.com/HARUKI05758694)
+[![Followers](https://badgen.org/img/zenn/mashharuki/followers?style=flat)](https://zenn.dev/mashharuki) [![My Twitter Followers](https://badgen.net/twitter/follow/HARUKI05758694)](https://twitter.com/HARUKI05758694)[![Followers](https://badgen.org/img/qiita/mashharuki/followers?style=plastic)](https://qiita.com/mashharuki)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashharuki&layout=compact&show_icons=true" />
