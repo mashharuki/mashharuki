@@ -15,6 +15,9 @@ Hi, I'm an Web3 engineer.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mashharuki&margin-w=5)](https://github.com/mashharuki/)
 
+![snek go brr](https://raw.githubusercontent.com/mashharuki/mashharuki/snek/snek-light.svg#gh-light-mode-only)
+![snek go brr](https://raw.githubusercontent.com/mashharuki/mashharuki/snek/snek-dark.svg#gh-dark-mode-only)
+
 <!--
 **mashharuki/mashharuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
