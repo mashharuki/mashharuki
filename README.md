@@ -2,7 +2,7 @@
 Hi, I'm an Web3 engineer. 
 
 ### 🌱 my skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,jquery,nodejs,react,nextjs,vue,tailwind,vite,webpack,firebase,vercel,netlify,aws,git,github,githubactions,figma,wasm,androidstudio,bootstrap,discord,docker,eclipse,flutter,go,graphql,kotlin,instagram,jenkins,linkedin,linux,md,matlab,materialui,maven,postgres,rust,solidity,spring,svelte,swift,tensorflow,twitter,vscode,ipfs,jquery,nextjs,qt,rust" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,jquery,nodejs,react,nextjs,vue,tailwind,vite,webpack,firebase,vercel,netlify,aws,git,github,githubactions,figma,wasm,androidstudio,bootstrap,discord,docker,eclipse,flutter,go,graphql,kotlin,instagram,jenkins,linkedin,linux,md,matlab,materialui,maven,postgres,rust,solidity,spring,svelte,swift,tensorflow,twitter,vscode,ipfs,nextjs,qt,supabase" />
 
 
 ## 📈 Status
